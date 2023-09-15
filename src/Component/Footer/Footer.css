@@ -1,0 +1,306 @@
+.Container {
+    width: 1170px;
+    height: 377.95px;
+    top: 742.05px;
+    left: 1170px;
+    background-color: #E5F7FD;
+    margin-left: 85px;
+    margin-top: 40px;
+    border: 1px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.Box1 {
+    width: 1011.75px;
+    height: 248px;
+    top: 30.58px;
+    left: 79.13px;
+    padding: 0px, 0px, 0px, 0px;
+    justify-content: center;
+    margin-top:100px ;
+}
+
+.Div1 {
+    width: 219px;
+    height: 194px;
+    top: 30.58px;
+    left: 79.13px;
+    border-radius: 16px;
+
+
+}
+
+.text {
+    width: 70px;
+    height: 28px;
+    top: 30.58px;
+    left: 228.13px;
+    font-family: Avenir Arabic;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: right;
+    margin-left: 90px;
+}
+
+.Social {
+    width: 219px;
+    height: 24px;
+    top: 78.58px;
+    left: 79.13px;
+    margin-top: 5px;
+
+}
+
+.map {
+    width: 169px;
+    height: 72px;
+    top: 152.58px;
+    left: 100.13px;
+    border-radius: 16px;
+    margin-top: 40px;
+
+}
+
+.pin {
+    width: 24px;
+    height: 24px;
+    top: 176.58px;
+    left: 274.13px;
+    margin-top: 40px;
+}
+
+.Div2 {
+    width: 282px;
+    height: 108px;
+    top: 30.58px;
+    left: 351.46px;
+    justify-content: right;
+  
+
+
+}
+
+.com1 {
+    width: 84px;
+    height: 28px;
+    top: 30.58px;
+    left: 549.46px;
+    font-family: Avenir Arabic;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #000000;
+    justify-content: right;
+    margin-left: 170px;
+
+
+}
+
+.phone {
+    width: 118px;
+    height: 25px;
+    top: 78.58px;
+    left: 515.46px;
+    display: flex;
+    justify-content: right;
+    margin-left: 160px;
+
+}
+
+.no {
+    width: 89px;
+    height: 25px;
+    top: 78.58px;
+    left: 515.46px;
+    font-family: Avenir Arabic;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #6D6E71;
+}
+
+.tele {
+    width: 24px;
+    height: 24px;
+    top: 79.08px;
+    left: 609.46px;
+
+}
+
+.com2 {
+    width: 282px;
+    height: 25px;
+    top: 113.58px;
+    left: 351.46px;
+    display: flex;
+    justify-content: right;
+}
+
+.email {
+    width: 253px;
+    height: 25px;
+    top: 113.58px;
+    left: 351.46px;
+    font-family: Avenir Arabic;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #6D6E71;
+}
+
+.ee {
+    width: 24px;
+    height: 24px;
+    top: 114.08px;
+    left: 609.46px;
+}
+
+.Div3 {
+    width: 107px;
+    height: 248px;
+    top: 30.58px;
+    left: 686.79px;
+  
+
+
+
+}
+
+.Services {
+    width: 50px;
+    height: 28px;
+    top: 30.58px;
+    left: 743.79px;
+    justify-content: right;
+    font-family: Avenir Arabic;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #000000;
+    margin-left: 50px;
+
+}
+
+.rrrr {
+    width: 107px;
+    height: 200px;
+    top: 78.58px;
+    left: 686.79px;
+    font-family: Avenir Arabic;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #7D7E82;
+    justify-content: right;
+
+}
+
+.Div4 {
+    width: 243.75px;
+    height: 174.38px;
+    top: 30.58px;
+    left: 847.13px;
+
+}
+
+.title {
+    width: 173.69px;
+    height: 54.38px;
+    top: 30.58px;
+    left: 917.18px;
+    display: flex;
+    margin-left: 60px;
+
+
+}
+
+.logo {
+    width: 42.56px;
+    height: 43.4px;
+    top: 36.07px;
+    left: 917.18px;
+    justify-content: right;
+    align-items: right;
+    margin-left: 5px;
+
+}
+
+.iii {
+    width: 130px;
+    height: 54.38px;
+    top: 30.58px;
+    left: 960.87px;
+    font-family: Avenir Arabic;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-align: right;
+    margin-left: 30px;
+}
+
+.c {
+    color: #303C38;
+}
+
+.s {
+    color: #00ADEE;
+}
+
+.pp {
+    width: 243.75px;
+    height: 100px;
+    top: 104.97px;
+    left: 847.13px;
+    font-family: Avenir Arabic;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #7D7E82;
+}
+
+.Box2 {
+    justify-content: center;
+}
+
+.line {
+    width: 1011.75px;
+    top: 309.38px;
+    left: 79.13px;
+    border: 2px;
+    border-color:#FFFFFF;
+
+}
+
+.txxt {
+    width: 227px;
+    height: 28px;
+    top: 328.78px;
+    left: 471.5px;
+    font-family: Avenir Arabic;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    justify-content: center;
+    color: #000000;
+    margin-right: 950px;
+
+
+}

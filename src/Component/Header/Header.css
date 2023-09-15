@@ -1,0 +1,54 @@
+.container {
+    width: 1170px;
+    height: 50px;
+    top: 30.60693359375px;
+    left: 135px;
+
+}
+
+.butn1 {
+    width: 120px;
+    ;
+    height: 50px;
+    border: 1px solid #00ADEE;
+    background-color: #00ADEE;
+    color: white;
+    border-radius: 150px;
+}
+
+.nav {
+    color: #1D1D35;
+    font-family: Avenir Arabic;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 30.9px;
+    width: 381px;
+    height: 31px;
+    top: 9.5px;
+    left: 394.5px;
+}
+
+.name {
+    width: 140.52px;
+    height: 39px;
+    top: 5.5px;
+    left: 1029.47900390625px;
+    font-family: Avenir Arabic;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
+
+.clean {
+    color: #303C38;
+
+}
+
+.stead {
+    color: #00ADEE;
+}
